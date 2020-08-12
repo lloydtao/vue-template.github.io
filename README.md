@@ -1,3 +1,5 @@
+![Vue on GitHub Pages](Vue-GitHub-Pages.png)
+
 # vue-template.github.io
 
 A GitHub Pages template to serve a Vue application.
